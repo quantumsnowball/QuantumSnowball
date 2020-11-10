@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working as a freelance financial writer of Apple Daily Hong Kong
+- 🌱 My scope of interest includes:
+  - ⚡quantitative finance
+  - ⚡algorithmic trading
+  - ⚡machine learning
+  - ⚡anything about programming or investment
+- 📫 How to reach me: <quantum.snowball@gmail.com>
 <!--
 **quantumsnowball/QuantumSnowball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
