@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working as a freelance financial writer of Apple Daily Hong Kong
+- 🔭 Former freelance financial writer of Apple Daily Hong Kong
 - 🌱 My scope of interest includes:
   - ⚡quantitative finance
   - ⚡algorithmic trading
