@@ -1,10 +1,10 @@
 ### Hi there 👋
+- 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Former freelance financial writer of Apple Daily Hong Kong
 - 🌱 My scope of interest includes:
-  - ⚡quantitative finance
-  - ⚡algorithmic trading
-  - ⚡machine learning
-  - ⚡anything about programming or investment
+  - ⚡web3, blockchain, web dev, cloud 
+  - ⚡quantitative finance, algorithmic trading, machine learning
+  - ⚡basically anything about programming or investment
 - 📫 How to reach me: <quantum.snowball@gmail.com>
 <!--
 **quantumsnowball/QuantumSnowball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
