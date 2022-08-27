@@ -1,3 +1,6 @@
+# Quantum Snowball
+
+
 ### Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Former freelance financial writer of Apple Daily Hong Kong
@@ -10,6 +13,19 @@
 ## My Work
 
 A brief description about some of my work done in the past. Currently it contains everything I've ever developed, but in the future I may manage them into different repos.
+
+<div align="center">
+  <h3>
+    <a href="#neovim-plugins">Neovim</a>
+    •
+    <a href="#web-dev">Web Dev</a>
+    •
+    <a href="#apple-daily---quantitative-research">Apple Daily</a>
+    •
+    <a href="#data-science">Data Science</a>
+  </h3>
+</div>
+
 
 ### Neovim Plugins
 
@@ -59,6 +75,10 @@ These are all my source code covering my reserach when writing for Apple Daily H
 - #### [AppleDaily20190823](https://github.com/quantumsnowball/AppleDaily20190823)
 - #### [AppleDaily20190722](https://github.com/quantumsnowball/AppleDaily20190722)
 - #### [AppleDaily20190622](https://github.com/quantumsnowball/AppleDaily20190622)
+
+### Data Science
+
+I have done data science and machine learning research in the past. Some interesting project are listed here as well.
 
 <!--
 **quantumsnowball/QuantumSnowball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
