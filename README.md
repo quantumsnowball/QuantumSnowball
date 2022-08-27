@@ -19,7 +19,7 @@ A brief description about some of my work done in the past. Currently it contain
 
 <div align="center">
   <h3>
-    <a href="#neovim-plugins">Neovim</a>
+    <a href="#neovim">Neovim</a>
     •
     <a href="#web-dev">Web Dev</a>
     •
@@ -30,12 +30,14 @@ A brief description about some of my work done in the past. Currently it contain
 </div>
 
 
-### Neovim Plugins
+### Neovim
 
 Now I use Neovim as my main coding editor. Most IDE's functions can be added using third parties plugins. When those plugins can satisfy my need, I will try to write my own plugins.
 
 - #### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
   If you use Neovim as an IDE, and mainly use telescope.nvim as a file picker, then you may found my plugin is the long wanted missing tabpages picker.
+
+- #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
 
 ### Web Dev
 
