@@ -43,9 +43,9 @@ Now I use Neovim as my main coding editor. Most IDE's functions can be added usi
 
 Web dev is easy but also can be difficult. It is easy when you have a boilerplate to start with, but can be difficult when you need to build everything from scratch. I have built some starter projects, while trying to include some most common web dev technologies into them.
 
-- #### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities
+- #### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
   This project has been built and hosting at [quotes.quantumsnowball.ml](https://quotes.quantumsnowball.ml/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
-- #### [Todos](https://github.com/quantumsnowball/todos-domain) - a todos app built using the MERN stack
+- #### [Todos](https://github.com/quantumsnowball/todos-domain) - a todos app built using the MERN stack ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![mongodb](https://img.shields.io/badge/mongodb-white?logo=mongodb) ![express](https://img.shields.io/badge/express-white?logo=express&logoColor=black)
   This project is still under development. When finished, it should be a ready-to-use boilerplate for a starter login app using the MERN stack.
 
 ### Apple Daily - Quantitative Research
