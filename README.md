@@ -1,6 +1,9 @@
-# Quantum Snowball
-
-
+<div align="center">
+  <h1>
+    Quantum Snowball
+  </h1>
+</div>
+    
 ### Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Former freelance financial writer of Apple Daily Hong Kong
