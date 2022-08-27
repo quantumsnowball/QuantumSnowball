@@ -34,21 +34,34 @@ A brief description about some of my work done in the past. Currently it contain
 
 Now I use Neovim as my main coding editor. Most IDE's functions can be added using third parties plugins. When those plugins can satisfy my need, I will try to write my own plugins.
 
-- #### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
+- #### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin 
+  ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
+  
   If you use Neovim as an IDE, and mainly use telescope.nvim as a file picker, then you may found my plugin is the long wanted missing tabpages picker.
 
-- #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
+- #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua 
+  ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
 
 ### Web Dev
 
 Web dev is easy but also can be difficult. It is easy when you have a boilerplate to start with, but can be difficult when you need to build everything from scratch. I have built some starter projects, while trying to include some most common web dev technologies into them.
 
-- #### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
+- #### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities 
+  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
+  
   This project has been built and hosting at [quotes.quantumsnowball.ml](https://quotes.quantumsnowball.ml/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
-- #### [Todos](https://github.com/quantumsnowball/todos-domain) - a todos app built using the MERN stack ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![mongodb](https://img.shields.io/badge/mongodb-white?logo=mongodb) ![express](https://img.shields.io/badge/express-white?logo=express&logoColor=black)
+
+- #### [Todos](https://github.com/quantumsnowball/todos-domain) - a todos app built using the MERN stack 
+  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![mongodb](https://img.shields.io/badge/mongodb-white?logo=mongodb) ![express](https://img.shields.io/badge/express-white?logo=express&logoColor=black)
+  
   This project is still under development. When finished, it should be a ready-to-use boilerplate for a starter login app using the MERN stack.
 
-### Apple Daily - Quantitative Research
+### Apple Daily - Quantitative Research      
+![python](https://img.shields.io/badge/python-white?logo=python)
+![jupyter](https://img.shields.io/badge/jupyter-white?logo=jupyter)
+![numpyy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
+![pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=darkblue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)
 
 These are all my source code covering my reserach when writing for Apple Daily Hong Kong.
 
