@@ -54,14 +54,19 @@ When I need a software but I can't find one really suitable, choose one which is
 - ### [waylandmap](https://github.com/quantumsnowball/waylandmap) - a key mapping app for Linux that works under X11 or Wayland
   ![python](https://img.shields.io/badge/python-white?logo=python) ![pypi](https://img.shields.io/badge/pypi-white?logo=pypi) ![linux](https://img.shields.io/badge/linux-white?logo=linux)
 
-  The best use case I found for myself is to map `RightAlt` + `hjkl` to be the arrow keys by making `RightAlt` to be a 3rd-level shift key.
+  This project is distributed as [waylandmap](https://pypi.org/project/waylandmap/) on PyPI.org. The best use case I found for myself is to map `RightAlt` + `hjkl` to be the arrow keys by making `RightAlt` to be a 3rd-level shift key.
 
 - ### [opensubtitles-dl](https://github.com/quantumsnowball/opensubtitles-dl) - you can search opensubtitle.org directly in the terminal
   ![python](https://img.shields.io/badge/python-white?logo=python) ![pypi](https://img.shields.io/badge/pypi-white?logo=pypi)
 
+  This project is distributed as [opensubtitles-dl](https://pypi.org/project/opensubtitles-dl/) on PyPI.org.
+
 - ### [wide-lihkg-userscript](https://github.com/quantumsnowball/wide-lihkg-userscript) - sideload custom CSS into lihkg
 
   ![javascript](https://img.shields.io/badge/javascript-white?logo=javascript) ![css](https://img.shields.io/badge/css-white?logo=css3&logoColor=blue)
+
+  This project is distributed as [Wide LIHKG](https://greasyfork.org/en/scripts/430707-wide-lihkg) on greasyfork.org.
+   
 
 <div align="right"><a href="#my-work">top</a></div>
 
