@@ -13,34 +13,37 @@
   - ⚡basically anything about programming or investment
 - 📫 How to reach me: <quantum.snowball@gmail.com>
 
-## My Work
+<div align="center">
+  <h1>
+    My Work
+  </h1>
+</div>
 
-A brief description about some of my work done in the past. Currently it contains everything I've ever developed, but in the future I may manage them into different repos.
+A brief description about some of my work done in the past. Currently this repo contains everything I've ever developed, but in the future I may manage them into different repos.
 
 <div align="center">
   <h3>
-    <a href="#neovim">Neovim</a>
+    <a href="#apps">Apps</a>
     •
     <a href="#web-dev">Web Dev</a>
     •
     <a href="#apple-daily---quantitative-research">Apple Daily</a>
     •
     <a href="#data-science">Data Science</a>
+    •
+    <a href="#dotfiles">dotfiles</a>
   </h3>
 </div>
 
 
-### Neovim
+### Apps
 
-Now I use Neovim as my main coding editor. Most IDE's functions can be added using third parties plugins. When those plugins can satisfy my need, I will try to write my own plugins.
+When I need a software but I can't find one suitable, I will try to write it by myself.
 
 - #### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
   
   If you use Neovim as an IDE, and mainly use telescope.nvim as a file picker, then you may found my plugin is the long wanted missing tabpages picker.
-
-- #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua 
-  ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
 
 ### Web Dev
 
@@ -97,6 +100,12 @@ These are all my source code covering my reserach when writing for Apple Daily H
 ### Data Science
 
 I have done data science and machine learning research in the past. Some interesting project are listed here as well.
+
+
+### dotfiles
+
+- #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua 
+  ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
 
 <!--
 **quantumsnowball/QuantumSnowball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
