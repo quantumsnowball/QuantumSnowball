@@ -13,7 +13,7 @@
   - ⚡basically anything about programming or investment
 - 📫 How to reach me: <quantum.snowball@gmail.com>
 
-<div align="center">
+<div id="my-work" align="center">
   <h1>
     My Work
   </h1>
@@ -38,12 +38,21 @@ A brief description about some of my work done in the past. Currently this repo 
 
 ### Apps
 
-When I need a software but I can't find one suitable, I will try to write it by myself.
+When I need a software but I can't find one really suitable, choose one which is pretty close to my needs, then fork it and modify it. Well, if none of them are even close, I will build it from scratch.
 
 - #### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
   
   If you use Neovim as an IDE, and mainly use telescope.nvim as a file picker, then you may found my plugin is the long wanted missing tabpages picker.
+- #### [waylandmap](https://github.com/quantumsnowball/waylandmap) - a key mapping app for Linux that works under X11 or Wayland
+  ![python](https://img.shields.io/badge/python-white?logo=python) ![pypi](https://img.shields.io/badge/pypi-white?logo=pypi) ![linux](https://img.shields.io/badge/linux-white?logo=linux)
+
+  The best use case I found for myself is to map `RightAlt` + `hjkl` to be the arrow keys by making `RightAlt` to be a 3rd-level shift key.
+
+- #### [opensubtitles-dl](https://github.com/quantumsnowball/opensubtitles-dl) - you can search opensubtitle.org directly in the terminal
+  ![python](https://img.shields.io/badge/python-white?logo=python) ![pypi](https://img.shields.io/badge/pypi-white?logo=pypi)
+
+<div align="right"><a href="#my-work">top</a></div>
 
 ### Web Dev
 
@@ -59,11 +68,14 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   
   This project is still under development. When finished, it should be a ready-to-use boilerplate for a starter login app using the MERN stack.
 
+<div align="right"><a href="#my-work">top</a></div>
+
 ### Apple Daily - Quantitative Research      
 ![python](https://img.shields.io/badge/python-white?logo=python)
 ![jupyter](https://img.shields.io/badge/jupyter-white?logo=jupyter)
-![numpyy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
+![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
 ![pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=darkblue)
+![scipy](https://img.shields.io/badge/scipy-white?logo=scipy)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)
 
 These are all my source code covering my reserach when writing for Apple Daily Hong Kong.
@@ -97,15 +109,20 @@ These are all my source code covering my reserach when writing for Apple Daily H
 - #### [AppleDaily20190722](https://github.com/quantumsnowball/AppleDaily20190722)
 - #### [AppleDaily20190622](https://github.com/quantumsnowball/AppleDaily20190622)
 
+<div align="right"><a href="#my-work">top</a></div>
+
 ### Data Science
 
 I have done data science and machine learning research in the past. Some interesting project are listed here as well.
 
+<div align="right"><a href="#my-work">top</a></div>
 
 ### dotfiles
 
 - #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
+
+<div align="right"><a href="#my-work">top</a></div>
 
 <!--
 **quantumsnowball/QuantumSnowball** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
