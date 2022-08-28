@@ -37,7 +37,6 @@ A brief description about some of my work done in the past. Currently this repo 
   </h3>
 </div>
 
-
 ### Apps
 
 When I need a software but I can't find one really suitable, choose one which is pretty close to my needs, then fork it and modify it. Well, if none of them are even close, I will build it from scratch.
@@ -45,7 +44,13 @@ When I need a software but I can't find one really suitable, choose one which is
 - #### [Tabman](https://github.com/quantumsnowball/telescope-tabman.nvim) - a telescope.nvim plugin 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
   
-  If you use Neovim as an IDE, and mainly use telescope.nvim as a file picker, then you may found my plugin is the long wanted missing tabpages picker.
+  If you use Neovim as an IDE, and mainly use telescope.nvim as a file picker, then you may find my plugin to be the long wanted missing tabpages picker.
+
+- #### [link-finder](https://github.com/quantumsnowball/link-finder) - a Chrome extension that can help you capture web traffic urls
+  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react)
+
+  Normally, you use the Chrome DevTool to monitor network traffic. But some website may stop running when the DevTool is opened, so I write a chrome extension to query the chorme API for all network traffic, avoiding the DevTool altogether. 
+
 - #### [waylandmap](https://github.com/quantumsnowball/waylandmap) - a key mapping app for Linux that works under X11 or Wayland
   ![python](https://img.shields.io/badge/python-white?logo=python) ![pypi](https://img.shields.io/badge/pypi-white?logo=pypi) ![linux](https://img.shields.io/badge/linux-white?logo=linux)
 
@@ -54,6 +59,10 @@ When I need a software but I can't find one really suitable, choose one which is
 - #### [opensubtitles-dl](https://github.com/quantumsnowball/opensubtitles-dl) - you can search opensubtitle.org directly in the terminal
   ![python](https://img.shields.io/badge/python-white?logo=python) ![pypi](https://img.shields.io/badge/pypi-white?logo=pypi)
 
+- #### [wide-lihkg-userscript](https://github.com/quantumsnowball/wide-lihkg-userscript) - sideload custom CSS into lihkg
+
+  ![javascript](https://img.shields.io/badge/javascript-white?logo=javascript) ![css](https://img.shields.io/badge/css-white?logo=css3&logoColor=blue)
+
 <div align="right"><a href="#my-work">top</a></div>
 
 ### Web Dev
@@ -61,7 +70,7 @@ When I need a software but I can't find one really suitable, choose one which is
 Web dev is easy but also can be difficult. It is easy when you have a boilerplate to start with, but can be difficult when you need to build everything from scratch. I have built some starter projects, while trying to include some most common web dev technologies into them.
 
 - #### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities 
-  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
+  ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black) ![mui](https://img.shields.io/badge/mui-white?logo=mui)
   
   This project has been built and hosting at [quotes.quantumsnowball.ml](https://quotes.quantumsnowball.ml/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
 
@@ -69,6 +78,11 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript) ![react](https://img.shields.io/badge/react-white?logo=react) ![mongodb](https://img.shields.io/badge/mongodb-white?logo=mongodb) ![express](https://img.shields.io/badge/express-white?logo=express&logoColor=black)
   
   This project is still under development. When finished, it should be a ready-to-use boilerplate for a starter login app using the MERN stack.
+
+- #### [js_todo_list_app](https://github.com/quantumsnowball/js_todo_list_app) - a pure javascript todos starter
+  ![css](https://img.shields.io/badge/html5-white?logo=html5) ![javascript](https://img.shields.io/badge/javascript-white?logo=javascript) ![css](https://img.shields.io/badge/css-white?logo=css3&logoColor=blue)
+
+  Sometimes you just want to code something using pure js, just to learn the basics.
 
 <div align="right"><a href="#my-work">top</a></div>
 
@@ -121,6 +135,9 @@ These are all my source code covering my reserach when writing for Apple Daily H
 
 I write code to research the financial market all the time.
 
+- #### [hong-kong-interbank-liquidity-plot](https://github.com/quantumsnowball/hong-kong-interbank-liquidity-plot)
+  Do you think the USD-HKD peg is gonna hold? Here is an indicator you need to pay attention to.
+
 - #### [terra-luna-ust-revival-analysis-May-2022](https://github.com/quantumsnowball/terra-luna-ust-revival-analysis-May-2022)
   A valuation model for Terra 2.0 before the launch of the new LUNA token.
 
@@ -140,14 +157,36 @@ I write code to research the financial market all the time.
 
 ### Data Science
 
-I have done data science and machine learning research in the past. Some interesting project are listed here as well.
+I have done some data science and machine learning research projects in the past. Some interesting project are listed here as well.
+
+- #### [toy-openai-gym-collections](https://github.com/quantumsnowball/toy-openai-gym-collections) - all about  deep reinforcement learning
+  ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![openai](https://img.shields.io/badge/neovim-white?logo=openai&logoColor=black)  ![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
+
+  Try to use use deep reinforcement learning models to play computer games! It was not easy at all.
+
+- #### [toy-datasets-collections](https://github.com/quantumsnowball/toy-datasets-collections)
+
+  ![tensorflow](https://img.shields.io/badge/tensorflow-white?logo=tensorflow) ![keras](https://img.shields.io/badge/keras-white?logo=keras&logoColor=red) ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)
+
+  These are very common machine learning and deep learning datasets.
 
 <div align="right"><a href="#my-work">top</a></div>
 
 ### dotfiles
 
+I am using these configs on Linux or Mac terminal. 
+
 - #### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)  ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
+
+- #### [tmux](https://github.com/quantumsnowball/tmux) - my tmux config repo
+  ![sh](https://img.shields.io/badge/tmux-white?logo=tmux) ![sh](https://img.shields.io/badge/sh-white?logo=shell)
+
+- #### [zshrc](https://github.com/quantumsnowball/zshrc) - my zshrc config repo
+  ![sh](https://img.shields.io/badge/sh-white?logo=shell)
+
+- #### [.repo](https://github.com/quantumsnowball/.repo) - my other config files repo
+  ![sh](https://img.shields.io/badge/sh-white?logo=shell)
 
 <div align="right"><a href="#my-work">top</a></div>
 
