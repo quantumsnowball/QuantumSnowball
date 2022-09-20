@@ -4,6 +4,12 @@
   </h1>
 </div>
     
+
+[![Repositories](https://img.shields.io/badge/Repositories-black?style=for-the-badge&logo=github)](https://github.com/quantumsnowball)
+[![Homepage](https://img.shields.io/badge/Homepage-229922?style=for-the-badge&logo=github)](https://quantumsnowball.github.io)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.quantumsnowball.ml)
+[![Email](https://img.shields.io/badge/Email-navy?style=for-the-badge&logo=gmail)](mailto:quantumsnowball@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-dddddd?style=for-the-badge&logo=twitter)](https://twitter.com/QuantumSnowball)
 ## Hi there 👋
 - 🔭 Ready to learn any technology to solve real life problems
 - 🔭 Worked as a quantitative research analyst and proprietary trader in Hong Kong
@@ -175,7 +181,7 @@ I write code to research the financial market all the time.
 I have done some data science and machine learning research projects in the past. Some interesting project are listed here as well.
 
 - ### [toy-openai-gym-collections](https://github.com/quantumsnowball/toy-openai-gym-collections) - all about  deep reinforcement learning
-  ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![openai](https://img.shields.io/badge/neovim-white?logo=openai&logoColor=black)  ![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
+  ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![openai](https://img.shields.io/badge/openai-white?logo=openai&logoColor=black)  ![numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue)
 
   Try to use use deep reinforcement learning models to play computer games! It was not easy at all.
 
