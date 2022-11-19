@@ -172,10 +172,6 @@ I write code to research the financial market all the time.
 
   How does a DEX like Uniswap works? It is built on automaatic market makers, which is very different from the traditional stock market. This jupyter notebook simulates the Constant Product Invariant Curve to better understand how it works.
 
-- ### [marble-drawing-scam-analysis](https://github.com/quantumsnowball/marble-drawing-scam-analysis)
-
-  To solve any probability problems, you can either use maths to solve it by first principal, or use programming to solve it by simulation.
-
 <div align="right"><a href="#my-work">top</a></div>
 
 ## Data Science
@@ -192,6 +188,10 @@ I have done some data science and machine learning research projects in the past
   ![tensorflow](https://img.shields.io/badge/tensorflow-white?logo=tensorflow) ![keras](https://img.shields.io/badge/keras-white?logo=keras&logoColor=red) ![pytorch](https://img.shields.io/badge/pytorch-white?logo=pytorch) ![scikit-learn](https://img.shields.io/badge/scikit--learn-white?logo=scikit-learn)
 
   These are very common machine learning and deep learning datasets.
+
+- ### [marble-drawing-scam-analysis](https://github.com/quantumsnowball/marble-drawing-scam-analysis)
+
+  To solve any probability problems, you can either use maths to solve it by first principal, or use programming to solve it by simulation.
 
 <div align="right"><a href="#my-work">top</a></div>
 
