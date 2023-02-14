@@ -268,7 +268,7 @@ I have done some data science and machine learning research projects in the past
 
 I am using these configs on Linux or Mac terminal. 
 
-- ### [nvim](https://github.com/quantumsnowball/nvim) - my Neovim config written in lua 
+- ### [nvim](https://github.com/quantumsnowball/nvim-lazy) - my Neovim config written in lua 
   ![neovim](https://img.shields.io/badge/neovim-white?logo=neovim)
   ![lua](https://img.shields.io/badge/lua-white?logo=lua&logoColor=030380)
 
