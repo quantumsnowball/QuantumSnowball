@@ -7,7 +7,7 @@
 
 [![Repositories](https://img.shields.io/badge/Repositories-black?style=for-the-badge&logo=github)](https://github.com/quantumsnowball)
 [![Homepage](https://img.shields.io/badge/Homepage-229922?style=for-the-badge&logo=github)](https://quantumsnowball.github.io)
-[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.quantumsnowball.ml)
+[![Hashnode](https://img.shields.io/badge/Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://quantumsnowball.hashnode.dev)
 [![Email](https://img.shields.io/badge/Email-navy?style=for-the-badge&logo=gmail)](mailto:quantumsnowball@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-dddddd?style=for-the-badge&logo=twitter)](https://twitter.com/QuantumSnowball)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/quantum-snowball-66441a251)
@@ -105,7 +105,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
   ![mui](https://img.shields.io/badge/mui-white?logo=mui)
 
-  [Furigana](https://furigana.quantumsnowball.ml) is an easy to use interactive web app aims to help you learn Japanese. It is currently hosting at [furigana.quantumsnowball.ml](https://furigana.quantumsnowball.ml) as a PWA. When you copy and paste a Japanese text, the app should show the most essential parts to read, pronounce and understand the language. When you edit the source, the app will show the updated Furigana, Romaji together with English/Chinese translation. You can also save the source and translation into favorites, then you can restore to view them later. Feel free to build your own Japanese learning notebook by saving common phrases and sentences to favorite, and backup/restore your notebook by the import/export feature. Happy learning Japanese!
+  [Furigana](https://furigana.quantumsnowball.vercel.app) is an easy to use interactive web app aims to help you learn Japanese. It is currently hosting at [furigana.quantumsnowball.vercel.app](https://furigana.quantumsnowball.vercel.app) as a PWA. When you copy and paste a Japanese text, the app should show the most essential parts to read, pronounce and understand the language. When you edit the source, the app will show the updated Furigana, Romaji together with English/Chinese translation. You can also save the source and translation into favorites, then you can restore to view them later. Feel free to build your own Japanese learning notebook by saving common phrases and sentences to favorite, and backup/restore your notebook by the import/export feature. Happy learning Japanese!
 
 - ### [Bayes](https://github.com/quantumsnowball/bayes-domain) - a probability playground showcasing the Bayes Theorem
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
@@ -114,7 +114,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
   ![mui](https://img.shields.io/badge/mui-white?logo=mui)
 
-  [Bayes](https://bayes.quantumsnowball.ml) is a simple interactive web app aim to provide a playground for easy understanding of the Bayes Theorem. It is now hosting on [bayes.quantumsnowball.ml](https://bayes.quantumsnowball.ml) as a progressive web app. You can edit, save and restore variety of different hypothesis and evidence combinations to come up to a posterior probability. Please feel free to install it on your phone as a handy assistant for solving probability problem.
+  [Bayes](https://bayes.quantumsnowball.vercel.app) is a simple interactive web app aim to provide a playground for easy understanding of the Bayes Theorem. It is now hosting on [bayes.quantumsnowball.vercel.app](https://bayes.quantumsnowball.vercel.app) as a progressive web app. You can edit, save and restore variety of different hypothesis and evidence combinations to come up to a posterior probability. Please feel free to install it on your phone as a handy assistant for solving probability problem.
 
 - ### [Quotes](https://github.com/quantumsnowball/quotes.quantumsnowball) - a beautiful mobile-friendly react app, fetching famous quotes by celebrities 
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
@@ -122,7 +122,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![redux](https://img.shields.io/badge/redux-white?logo=redux&logoColor=black)
   ![mui](https://img.shields.io/badge/mui-white?logo=mui)
   
-  This project has been built and hosting at [quotes.quantumsnowball.ml](https://quotes.quantumsnowball.ml/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
+  This project has been built and hosting at [quotes.quantumsnowball.vercel.app](https://quotes.quantumsnowball.vercel.app/). It is mobile-friendly, can be installed as a PWA using mobile Chrome browser.
 
 - ### [Todos](https://github.com/quantumsnowball/todos-domain) - a todos-list app with login and OAuth2 authentication based on JWT
   ![typescript](https://img.shields.io/badge/typescript-white?logo=typescript)
@@ -133,7 +133,7 @@ Web dev is easy but also can be difficult. It is easy when you have a boilerplat
   ![redis](https://img.shields.io/badge/redis-white?logo=redis)
   ![serverless](https://img.shields.io/badge/serverless-white?logo=vercel&logoColor=black)
   
-  This project is a rewrite serverless version of the former MERN boilerplate project [todos-domain--serverful](https://github.com/quantumsnowball/todos-domain--serverful). Now the project is in production and deployed as [todos.quantumsnowball.ml](https://todos.quantumsnowball.ml). The main reason to rewrite this app is to convert the backend to serverless functions. Instead of relying on centralized servers, being serverless means distributing the backend api endpoints into pieces and run them as stateless functions, providing much bigger scaling potential for any apps. The rewrite version also make use of `Next.js` implementing server-side rendering (SSR), further enhancing the app experience. 
+  This project is a rewrite serverless version of the former MERN boilerplate project [todos-domain--serverful](https://github.com/quantumsnowball/todos-domain--serverful). Now the project is in production and deployed as [todos.quantumsnowball.vercel.app](https://todos.quantumsnowball.vercel.app). The main reason to rewrite this app is to convert the backend to serverless functions. Instead of relying on centralized servers, being serverless means distributing the backend api endpoints into pieces and run them as stateless functions, providing much bigger scaling potential for any apps. The rewrite version also make use of `Next.js` implementing server-side rendering (SSR), further enhancing the app experience. 
 
   Todos is a todo-list app with a authentication system using React and JWT. User can register an account, login to his account, and then add todo checklist items. The state should be saved into a database and user should be able to authenticate using JWT token and get back the checklist. You can also login using a Google account through OAuth2.0.
 
